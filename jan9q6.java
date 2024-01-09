@@ -33,3 +33,14 @@ public class Solution {
         
     }
 }
+//  another way can be
+// fib0 =0;
+// fib1 = 1;
+
+// for(int i=1; i<=n; i++){
+//     int c = fib0 + fib1;
+// a=b;
+//  b=c; }
+//     sytem.out.println(a);
+    
+
